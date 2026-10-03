@@ -28,13 +28,14 @@ Hello there! This repository contains the cheatsheets/notes I created during my 
 
 ## Units 📖
 
-Here are the different units and their respective cheatsheets/mind maps. Simply click on each link to access the PDF or mind map:
+Here are the different units and their respective cheatsheets/mind maps. Simply click on each link to access the PDF or mind map or notes:
 
 - [COMP5310](COMP5310cheatsheet.pdf)
 - [INFO5990](INFO5990mindMap)
 - [COMP5318](COMP5318cheatsheet.pdf)
 - [COMP5329](COMP5329cheatsheet.pdf)
+- [COMP5046](COMP5046cheatsheet.pdf)
+- [COMP9001](COMP9001_note.pdf)
 
 Thank you for visiting! Enjoy and good luck with your studies! ✨
 
-I'm still updating this repository. More cheatsheets are coming soon! 🚀
